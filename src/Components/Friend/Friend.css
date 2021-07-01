@@ -1,0 +1,15 @@
+.friends{
+    border: 1px solid #888;
+    margin:22px;
+    padding:22px;
+    border-radius:5px;
+    width: 300px;
+    float:left;
+    background-color: rgba(230, 230, 235, 0.533);
+    color:hsl(0, 24%, 3%);
+    margin-left: 70px;
+}
+
+.friends :hover{
+    cursor: pointer;
+}

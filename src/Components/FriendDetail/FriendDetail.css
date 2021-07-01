@@ -1,0 +1,10 @@
+.details-info{
+    width: 350px;
+    background-color: aqua;
+    color:rgb(179, 19, 19);
+    padding:20px;
+    margin-left: 35%;
+    margin-top: 50px;
+    text-align: center;
+    font-family: sans-serif;
+}
